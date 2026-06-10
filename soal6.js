@@ -1,0 +1,11 @@
+let namaSiswa = "Gibran";
+let ukuranSepatu = 40;
+let rataRapor = 95.51;
+let Kelulusan = true;
+
+console.log(
+    `    Nama: ${namaSiswa}
+    Ukuran Sepatu: ${ukuranSepatu}
+    Nilai Rapor: ${rataRapor.toFixed(2)}
+    Kelulusan: ${Kelulusan}`
+)
